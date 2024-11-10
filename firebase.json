@@ -8,6 +8,8 @@
       "package.json",
       "Gruntfile.js",
       "www/less/**"
-    ]
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
   }
 }
